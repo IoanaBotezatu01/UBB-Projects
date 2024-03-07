@@ -30,7 +30,7 @@ Each repository is structured to reflect the courses taken during the semester. 
 
 I'm always open to feedback, collaboration opportunities, or any queries regarding my work. Feel free to connect with me:
 
-- Email: [your-email@example.com]
+- Email: [ioanabotezatu01@gmail.com]
 - LinkedIn: [your-linkedin-profile]
 
 Thank you for exploring my academic projects!
