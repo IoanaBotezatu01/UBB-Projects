@@ -6,7 +6,7 @@ Welcome to my collection of University Projects, organized by semesters. Each re
 
 - [Semester 1 Projects](https://github.com/IoanaBotezatu01/Semester-1)
 - [Semester 2 Projects](https://github.com/IoanaBotezatu01/Semester-2)
-- [Semester 3 Projects](#semester-3-projects)
+- [Semester 3 Projects](https://github.com/IoanaBotezatu01/Semester-3)
 
 
 ### Navigating the Repositories
