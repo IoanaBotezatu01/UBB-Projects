@@ -18,7 +18,7 @@ Each repository is structured to reflect the courses taken during the semester. 
 
 I'm always open to feedback, collaboration opportunities, or any queries regarding my work. Feel free to connect with me:
 
-- [Email]: [ioanabotezatu01@gmail.com]
+- [Email]: (ioanabotezatu01@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ioana-botezatu-4854a42b9/)
 
 Thank you for exploring my academic projects!
