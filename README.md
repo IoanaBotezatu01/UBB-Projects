@@ -8,7 +8,7 @@ Welcome to my collection of University Projects, organized by semesters. Each re
 - [Semester 2 Projects](https://github.com/IoanaBotezatu01/Semester-2)
 - [Semester 3 Projects](https://github.com/IoanaBotezatu01/Semester-3)
 - [Semester 4 Projects](https://github.com/IoanaBotezatu01/Semester-4)
-- [Semester 5 Projects]()
+- [Semester 5 Projects](https://github.com/IoanaBotezatu01/Semester-5)
 
 
 ### Contact
