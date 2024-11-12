@@ -11,15 +11,8 @@ Welcome to my collection of University Projects, organized by semesters. Each re
 - [Semester 5 Projects]()
 
 
-### Navigating the Repositories
-
-Each repository is structured to reflect the courses taken during the semester. Within each course's folder, you'll find relevant projects, code snippets, and documentation that showcase the work done and the knowledge gained.
-
-### Connect With Me
-
-I'm always open to feedback, collaboration opportunities, or any queries regarding my work. Feel free to connect with me:
+### Contact
 
 - Email: ioanabotezatu01@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ioana-botezatu-4854a42b9/)
 
-Thank you for exploring my academic projects!
